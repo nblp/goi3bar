@@ -1,5 +1,7 @@
 ## goi3bar
 
+> This is a fork from [denbeigh2000/goi3bar work](https://github.com/denbeigh2000/goi3bar)
+
 [![GoDoc](https://godoc.org/github.com/denbeigh2000/goi3bar?status.svg)](http://godoc.org/github.com/denbeigh2000/goi3bar)
 
 Finally, a configurable, lightweight and easily extensible replacement for i3status.
